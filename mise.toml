@@ -2,4 +2,5 @@
 lockfile = true
 
 [tools]
+uv = "0.13.7"
 "pypi:zensical" = { version = "0.1.0", with = ["mkdocstrings==1.0.7"] }
