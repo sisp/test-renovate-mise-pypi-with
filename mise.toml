@@ -1,0 +1,5 @@
+[settings]
+lockfile = true
+
+[tools]
+"pypi:zensical" = { version = "0.1.0", with = ["mkdocstrings==1.0.7"] }
