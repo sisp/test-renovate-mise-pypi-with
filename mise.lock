@@ -6,7 +6,7 @@ lockfile_version = 4
 version = "0.1.0"
 backend = "pypi:zensical"
 specifiers = ["0.1.0"]
-uv = { path = ".mise/locks/pypi-zensical/0.1.0~618f2ee1", digest = "sha256:8d6457a84be4772d8c3883cf3772dc1e06875a6040301138645381391efa6636" }
+uv = { path = ".mise/locks/pypi-zensical/0.1.0~618f2ee1", digest = "sha256:415ddd988e3b26ef7fa4bd838e0021df815b824aeff9c4cb340ace5893474802" }
 
 [tools."pypi:zensical".options]
 with = '["mkdocstrings==1.0.7"]'
